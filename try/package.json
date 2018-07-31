@@ -1,0 +1,10 @@
+{
+  "name": "tryowl",
+  "version": "1.0.0",
+  "description": "This is the Electron version of the Try Owl page.",
+  "main": "electron.js",
+  "scripts": {},
+  "devDependencies": {
+    "electron": "^2.0.5"
+  }
+}
